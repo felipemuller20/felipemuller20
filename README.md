@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Felipe Muller</h1>
-<h3 align="center">Life would be so much easier if we only had the source code...</h3>
+<h1>Hi 👋, I'm Felipe Muller</h1>
+<h3>Life would be so much easier if we only had the source code...</h3>
 
 - 🌱 I’m currently learning **JavaScript ES6, CSS, React**
 

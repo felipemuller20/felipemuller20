@@ -14,7 +14,7 @@
 
 </samp>
 <h1 align="center">
-<img src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" alt="Coder Cat Gif" width="350" height="250">
+<img src="https://acegif.com/wp-content/uploads/cat-typing-7.gif" alt="Coder Cat Gif" width="350" height="250">
 </h1>
 
 <h3 align="left">Connect with me:</h3>

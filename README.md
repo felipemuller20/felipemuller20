@@ -1,11 +1,15 @@
 <h1 align="center">Hey there 👽✌, I'm Felipe Muller</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-<samp>
-  <br><br>
-  
-  <i>Can you imagine a world without coffee? Well.. me neither</i> ☕😰
+
 <br><br>
+<img align="right" src="https://acegif.com/wp-content/uploads/cat-typing-7.gif" alt="Coder Cat Gif" width="350" height="250">
+<br><br><br>
+
+<i>Can you imagine a world without coffee? Well.. me neither</i> ☕😰
+  
+<samp>
+  
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **felipeavmuller@gmail.com**
@@ -13,9 +17,7 @@
   
 
 </samp>
-<h1 align="center">
-<img src="https://acegif.com/wp-content/uploads/cat-typing-7.gif" alt="Coder Cat Gif" width="350" height="250">
-</h1>
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipemuller20&show_icons=true&locale=en&layout=compact" alt="felipemuller20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipemuller20&show_icons=true&locale=en" alt="felipemuller20" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=felipemuller20&show_icons=true&locale=en" alt="felipemuller20" /></p>

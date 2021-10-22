@@ -1,11 +1,21 @@
-<h1 align="center">Hi there 👋, I'm Felipe Muller</h1>
+<h1 align="center">Hey there 👽✌, I'm Felipe Muller</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Node.js**
+<samp>
+  <br><br>
+  
+  <i>Can you imagine a world without coffee? Well.. me neither</i> ☕😰
+<br><br>
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **felipeavmuller@gmail.com**
+  
+  
 
-- ⚡ Fun fact **I'm curious about the mysteries of our galaxy 👽**
+</samp>
+<h1 align="center">
+<img src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" alt="Coder Cat Gif" width="350" height="250">
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

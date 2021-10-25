@@ -11,6 +11,8 @@
 <samp>
   
 - 🌱 I’m currently learning **Java**
+  
+- 🧠 Ask me about **React.js** and **Node.js**
 
 - 📫 How to reach me **felipeavmuller@gmail.com**
   

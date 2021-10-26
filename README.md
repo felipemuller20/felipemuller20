@@ -3,7 +3,7 @@
 
 
 <br><br>
-<img align="right" src="https://acegif.com/wp-content/uploads/cat-typing-7.gif" alt="Coder Cat Gif" width="350" height="250">
+<img align="right" src="https://github.com/felipemuller20/felipemuller20/blob/main/gatinho-programador.gif?raw=true" alt="Coder Cat Gif" width="350" height="250">
 <br><br><br>
 
 <i>Can you imagine a world without coffee? Well.. me neither</i> ☕😰

@@ -36,4 +36,8 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=felipemuller20&show_icons=true&locale=en" alt="felipemuller20" /></p>
 
 <br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 ![](https://komarev.com/ghpvc/?username=felipemuller20)

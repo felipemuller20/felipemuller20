@@ -10,7 +10,7 @@
   
 <samp>
   
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
   
 - 🧠 Ask me about **React.js** and **Node.js**
 

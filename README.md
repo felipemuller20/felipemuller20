@@ -10,9 +10,9 @@
 <br><br>
 <samp>
   
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native** to develop mobile application
   
-- 🧠 Ask me about **React.js** and **Node.js**
+- 🧠 Ask me about **React.js**, **Node.js** and **TypeScript**
 
 - 📫 How to reach me **felipeavmuller@gmail.com**
   

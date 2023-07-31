@@ -10,7 +10,7 @@
 <br><br>
 <samp>
   
-- 🌱 I’m currently learning **React Native** to develop mobile application
+- 🌱 I’m currently learning **Swift** to develop mobile iOS applications
   
 - 🧠 Ask me about **React.js**, **Node.js** and **TypeScript**
 

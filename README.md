@@ -1,5 +1,5 @@
 <h1 align="center">Hey there ✌, I'm Felipe Muller 👽</h1>
-<h3 align="center">A Front-end Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 
 <br><br>
